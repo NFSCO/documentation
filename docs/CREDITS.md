@@ -18,7 +18,7 @@ The following persons have contributed to the project in a notable way.
 ### Vehicles
 * [AlbinoBuffalo_80], [Mati The Mudkip], and [Darknes] - Various customization parts and vehicle models.
 * [379Felipe], [nlgxzef], [NFSF1McLaren], and [Red Fire] - Improvements to vanilla vehicle models.
-* [RaTT] - Improvements and creation of vehicle performance parts.
+* [RaTT] and [Reameb] - Improvements and creation of vehicle performance parts.
 * [RaTT], [Savo], [TDOG20], and [Zertex] - Performance testing of various vehicles.
 
 ### Networking
