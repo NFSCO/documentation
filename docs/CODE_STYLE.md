@@ -11,42 +11,34 @@
 	/* ... */
 #endif
 
+#ifndef BUILD_PRODUCTION
+	/* ... */
+#endif
+
 // correct.
 #if defined(BUILD_DEBUG)
 	/* ... */
 #endif
+
+#if !defined(BUILD_PRODUCTION)
+	/* ... */
+#endif
 ```
 
-* Indent preprocessor directives unless the scope encompasses the entire file.
+* Indent preprocessor directives.
 ```cpp
 // incorrect.
 #if defined(BUILD_PRODUCTION)
-#define MODULE_IGNORE_PIPE /* ... */
+#define EXAMPLE_DIRECTIVE /* ... */
 #else
-#define MODULE_IGNORE_PIPE /* ... */
+#define EXAMPLE_DIRECTIVE /* ... */
 #endif
 
 // correct.
 #if defined(BUILD_PRODUCTION)
-	#define MODULE_IGNORE_PIPE /* ... */
+	#define EXAMPLE_DIRECTIVE /* ... */
 #else
-	#define MODULE_IGNORE_PIPE /* ... */
-#endif
-
-// if the scope encompasses the entire file...
-#pragma once
-
-#if defined(PLATFORM_WINDOWS)
-
-#include /* ... */
-#include /* ... */
-#include /* ... */
-
-namespace project
-{
-	/* ... */
-}
-
+	#define EXAMPLE_DIRECTIVE /* ... */
 #endif
 ```
 
@@ -96,26 +88,4 @@ return std::vector<std::uint32_t>({ 1, 3, 3, 7 });
 
 // correct.
 return { 1, 3, 3, 7 };
-```
-
-* Use `push` and `ret` to jump back to the original code in assembly hooks.
-```cpp
-// incorrect.
-constexpr auto address = 0x00112233;
-
-__asm
-{
-	/* ... */
-
-	jmp address;
-}
-
-// correct.
-__asm
-{
-	/* ... */
-
-	push 0x00112233;
-	ret;
-}
 ```
