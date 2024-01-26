@@ -28,7 +28,7 @@ The project is set to release on 24.12.2024. This channel will be updated shortl
 * :wrench: <#721834000427253890> Development-related posts, images, and videos.
 * :test_tube: <#718118468008018022> Testing-related announcements.
 * :clipboard: <#593489606444449950> Testing-related discussion.
-* :lock: <#493536097205485588> Team-related discussion.
+* :lock: <#1200467422331817985> Discord community updates.
 * :notepad_spiral: <#481942198993289220> Audit logs.
 * :page_facing_up: <#743912688584753173> GitHub organization activity logs.
 * :night_with_stars: <#481833169906040862> A channel for <@&863878850517270579> and <@&481177555223838730> members. Discussion in languages other than English is allowed.
