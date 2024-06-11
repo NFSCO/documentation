@@ -7,8 +7,8 @@ On top of providing scratch-made online services, the project expands and improv
 The project is set to release on 24.12.2024. This channel will be updated shortly before the release date.
 
 ### Rules
-:information_source: Any violations of the below rules will result in your removal from the server without notice.
-:warning: You may not appeal any decision made by the server's administration.
+Any violations of the below rules will result in your removal from the server without notice.
+You may not appeal any decision made by the server's administration.
 
 1. Users under the age of 13 are not allowed in the server.
 2. Only speak English in public channels. For non-English discussion, create or join a thread in the <#1122540705169027155> channel.
@@ -24,7 +24,7 @@ The project is set to release on 24.12.2024. This channel will be updated shortl
 
 ### Channels
 * :information_source: <#725652414451023912> You are here. Important information about the project and the Discord server guidelines.
-* :mega: <#481174858055548928> Announcements related to the project or other endorsed projects. Only project-related announcements mention @everyone.
+* :mega: <#481174858055548928> Announcements related to the project or other endorsed projects.
 * :wrench: <#721834000427253890> Development-related posts, images, and videos.
 * :test_tube: <#718118468008018022> Testing-related announcements.
 * :clipboard: <#593489606444449950> Testing-related discussion.
@@ -33,13 +33,13 @@ The project is set to release on 24.12.2024. This channel will be updated shortl
 * :page_facing_up: <#743912688584753173> GitHub organization activity logs.
 * :night_with_stars: <#481833169906040862> A channel for <@&863878850517270579> and <@&481177555223838730> members. Discussion in languages other than English is allowed.
 * :speech_balloon: <#481831073249230858> Talk about anything.
-* :card_index: <#481831313662410752> Post memes. No 'repost if', 'bait and switch', or NSFL content.
+* :card_index: <#481831313662410752> Post memes.
 * :camera_with_flash: <#481832493499023372> Share any type of media.
 * :city_dusk: <#1122540705169027155> Create threads on topics you would like to discuss. Read the channel's post guidelines for more information.
 
 ### Links
-:information_source: Below are links to all official accounts related to the project.
-:warning: If an account claiming to be related to the project is not displayed here, it is not legitimate.
+Below are links to all accounts related to the project.
+If an account claiming to be related to the project is not displayed here, it is not legitimate.
 
 * Website - The project's [website](https://nfsco.club).
 * Discord - The project's [Discord server](https://discord.nfsco.club). You are here.
