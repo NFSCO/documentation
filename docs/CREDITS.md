@@ -5,7 +5,7 @@ The following persons have contributed to the project in a notable way.
 * [rx], [RaTT], and [379Felipe] - Vehicle engine and exhaust audio.
 
 ### Gameplay
-* [rx] - Career, Challenge Series, Quick Race events, career progression, areas, territories, and file-related patches.
+* [rx] - Career, Challenge Series, Quick Race events, career progression, territories, areas, and file-related patches.
 * [brokenphilip] - AI, pursuit, and event-related patches.
 * [379Felipe], [MaxHwoy], and [RaTT] - Career, Challenge Series, Quick Race events, and file-related patches.
 * [Xinerki] - Vehicle cameras.
@@ -16,17 +16,16 @@ The following persons have contributed to the project in a notable way.
 * [Aero_] and [ARCHIE] - Vehicle reflection and graphics-related patches.
 
 ### Vehicles
-* [AlbinoBuffalo_80], [Mati The Mudkip], and [Darknes] - Various customization parts and vehicle models.
-* [379Felipe], [nlgxzef], [NFSF1McLaren], and [Red Fire] - Improvements to vanilla vehicle models.
-* [RaTT] and [Reameb] - Improvements and creation of vehicle performance parts.
-* [RaTT], [Savo], [TDOG20], and [Zertex] - Performance testing of various vehicles.
+* [rx], [moses], [379Felipe], [AlbinoBuffalo_80], [nlgxzef], [NFSF1McLaren], [Red Fire], [Mati The Mudkip], [Darknes], [WF4123], and [Zvott96] - Vehicles and customization parts.
+* [rx], [RaTT], [Reameb], and [TKRFX] - Vehicle performance upgrades.
+* [rx], [RaTT], [Savo], [TDOG20], and [Zertex] - Vehicle performance upgrades testing.
 
-### Networking
-* [rx] - Core networking layer and vehicle management system.
-* [RektInator] - Original project code base.
+### Programming
+* [rx] - Networking layer and vehicle management system.
+* [RektInator] - Original project idea and code base.
 
 ### Tooling
-* [rx] - [Attribulatorulator].
+* [rx] - [Attribulatorulator] and miscellaneous scripts.
 * [brokenphilip] - [Need for Speed: Carbon Bulb Toys].
 * [MaxHwoy] and [rx] - [Hyperlinked].
 * [MaxHwoy] and [avail] - [Binary], [Hypercooled], and various private utilities.
@@ -44,6 +43,7 @@ The following persons have contributed to the project in a notable way.
 [heyitsleo]: https://github.com/LeoCodes21
 [Mati The Mudkip]: https://x.com/MatiTheMudkip
 [MaxHwoy]: https://github.com/MaxHwoy
+[moses]: https://youtube.com/@powerfulpants
 [NFSF1McLaren]: https://youtube.com/@NFSF1McLaren
 [nlgxzef]: https://github.com/nlgxzef
 [RaTT]: https://github.com/RaTT19
@@ -53,8 +53,11 @@ The following persons have contributed to the project in a notable way.
 [rx]: https://github.com/rxyyy
 [Savo]: https://youtube.com/@DnBlast
 [TDOG20]: https://youtube.com/@tdog20.
+[TKRFX]: https://youtube.com/@TKRFX
+[WF4123]: https://github.com/WF4123
 [Xinerki]: https://github.com/Xinerki
-[Zertex]: https://www.youtube.com/@zertex1666
+[Zertex]: https://youtube.com/@zertex1666
+[Zvott96]: https://nfsmods.xyz/user/725
 
 <!-- project links. -->
 [Attribulator]: https://github.com/NFSTools/Attribulator
