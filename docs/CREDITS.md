@@ -12,12 +12,12 @@ The following persons have contributed to the project in a notable way.
 * [ARCHIE] - Vehicle and customization-related patches.
 
 ### Graphics
-* [Reameb] and [BadassBaboon] - Environment and user interface textures.
+* [Ream] and [BadassBaboon] - Environment and user interface textures.
 * [Aero_] and [ARCHIE] - Vehicle reflection and graphics-related patches.
 
 ### Vehicles
 * [rx], [moses], [379Felipe], [AlbinoBuffalo_80], [nlgxzef], [NFSF1McLaren], [Red Fire], [Mati The Mudkip], [Darknes], [WF4123], and [Zvott96] - Vehicles and customization parts.
-* [rx], [RaTT], [Reameb], and [TKRFX] - Vehicle performance upgrades.
+* [rx], [RaTT], [Ream], and [TKRFX] - Vehicle performance upgrades.
 * [rx], [RaTT], [Savo], [TDOG20], and [Zertex] - Vehicle performance upgrades testing.
 
 ### Programming
@@ -31,6 +31,11 @@ The following persons have contributed to the project in a notable way.
 * [MaxHwoy] and [avail] - [Binary], [Hypercooled], and various private utilities.
 * [heyitsleo] - [VaultLib], [Attribulator], [FEngLib].
 
+### Research
+* [ThirteenAG] - Wide screen patches and research.
+* [berkayylmao] - Vehicle creation and management research.
+* [xan1242] - Scenery section management research.
+
 <!-- user links. -->
 [379Felipe]: https://github.com/Felipe379
 [Aero_]: https://github.com/AeroWidescreen
@@ -38,6 +43,7 @@ The following persons have contributed to the project in a notable way.
 [ARCHIE]: https://github.com/ArchieGoldmill
 [avail]: https://github.com/avail
 [BadassBaboon]: https://youtube.com/@badassbaboon
+[berkayylmao]: https://github.com/berkayylmao
 [brokenphilip]: https://github.com/brokenphilip
 [Darknes]: https://x.com/WnFome
 [heyitsleo]: https://github.com/LeoCodes21
@@ -47,14 +53,16 @@ The following persons have contributed to the project in a notable way.
 [NFSF1McLaren]: https://youtube.com/@NFSF1McLaren
 [nlgxzef]: https://github.com/nlgxzef
 [RaTT]: https://github.com/RaTT19
-[Reameb]: https://github.com/Reameb
+[Ream]: https://github.com/emygs
 [Red Fire]: https://youtube.com/@redfire480
 [RektInator]: https://github.com/RektInator
 [rx]: https://github.com/rxyyy
 [Savo]: https://youtube.com/@DnBlast
 [TDOG20]: https://youtube.com/@tdog20.
+[ThirteenAG]: https://thirteenag.github.io
 [TKRFX]: https://youtube.com/@TKRFX
 [WF4123]: https://github.com/WF4123
+[xan1242]: https://github.com/xan1242
 [Xinerki]: https://github.com/Xinerki
 [Zertex]: https://youtube.com/@zertex1666
 [Zvott96]: https://nfsmods.xyz/user/725
