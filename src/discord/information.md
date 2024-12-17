@@ -36,24 +36,26 @@ The project is set to release on 24.12.2024. This channel will be updated shortl
 * :card_index: <#481831313662410752> Post memes.
 * :camera_with_flash: <#481832493499023372> Share any type of media.
 * :city_dusk: <#1122540705169027155> Create threads on topics you would like to discuss. Read the channel's post guidelines for more information.
+* :bulb: <#1318412842810081290> Give your feedback about the project. Structured and non-hostile messages only. Misusing this channel will result in you being permanently restricted.
 
 ## Links
 Below are links to all accounts related to the project.
--# If an account claiming to be related to the project is not displayed here, it is not legitimate.
+If an account claiming to be related to the project is not displayed here, it is not legitimate and should not be trusted.
 
-* Website - The project's [website](https://nfsco.club).
-* Discord - The project's [Discord server](https://discord.nfsco.club). You are here.
-* YouTube - <@172384625245683712>'s [YouTube channel](https://youtube.com/rxyyy).
-* Telegram - The project's [Telegram group](https://telegram.nfsco.club). Primarily used as a back-up communication channel.
-* GitHub - The project's [GitHub organization](https://github.com/orgs/NFSCO). Used for [documentation](https://github.com/NFSCO/documentation) and [issue tracking](https://github.com/orgs/NFSCO/projects/1/views/1).
-* NFSMods - <@172384625245683712>'s [NFSMods profile](https://nfsmods.xyz/user/444).
-* X - <@172384625245683712>'s [X profile](https://x.com/__usercall).
-* X - The project's [X profile](https://x.com/race_bin_casino).
-* Patreon - The project's [Patreon page](https://patreon.com/NFSCO).
+* Website - The project's [website](<https://nfsco.club>).
+* Discord - The project's [Discord server](<https://discord.nfsco.club>). You are here.
+* YouTube - <@172384625245683712>'s [YouTube channel](<https://youtube.com/rxyyy>).
+* Telegram - The project's [Telegram group](<https://telegram.nfsco.club>). Primarily used as a back-up communication channel.
+* GitHub - The project's [GitHub organization](<https://github.com/orgs/NFSCO>). Used for [documentation](<https://github.com/NFSCO/documentation>) and [issue tracking](<https://github.com/orgs/NFSCO/projects/1/views/1>).
+* NFSMods - <@172384625245683712>'s [NFSMods profile](<https://nfsmods.xyz/user/444>).
+* X - <@172384625245683712>'s [X profile](<https://x.com/__usercall>).
+* X - The project's [X profile](<https://x.com/race_bin_casino>).
+* Patreon - The project's [Patreon page](<https://patreon.com/c/NFSCO>).
+* Ko-fi - The project's [Ko-fi page](<https://ko-fi.com/nfsco>).
 
 ## Donations
 A huge thank you goes out to all of our <@&863878850517270579> members for their support.
 Donations are a great driving force in the project's development and updates, **but do not provide in-game benefits**.
 
-You can donate through [NFSMods' donation page](https://nfsmods.xyz/donate) or through the project's [Patreon page](https://patreon.com/NFSCO).
+You can donate through [NFSMods' donation page](<https://nfsmods.xyz/donate>), through the project's [Patreon page](<https://patreon.com/NFSCO>), or through [Ko-fi](<https://ko-fi.com/nfsco>).
 Donating an amount equivalent to or above 5 USD will grant you the <@&863878850517270579> role and access to the <#481833169906040862> channel.
