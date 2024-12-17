@@ -14,11 +14,12 @@ The following persons have contributed to the project in a notable way.
 ### Graphics
 * [Ream] and [BadassBaboon] - Environment and user interface textures.
 * [Aero_] and [ARCHIE] - Vehicle reflection and graphics-related patches.
+* [rx] and [RedCarDriver] - Vehicle materials.
 
 ### Vehicles
 * [rx], [moses], [379Felipe], [AlbinoBuffalo_80], [nlgxzef], [NFSF1McLaren], [Red Fire], [Mati The Mudkip], [Darknes], [WF4123], and [Zvott96] - Vehicles and customization parts.
-* [rx], [RaTT], [Ream], and [TKRFX] - Vehicle performance upgrades.
-* [rx], [RaTT], [Savo], [TDOG20], and [Zertex] - Vehicle performance upgrades testing.
+* [rx], [RaTT], [Ream], and [Balathruin] - Vehicle performance upgrades.
+* [rx], [RaTT], [Savo], [TDOG20], [Artacer], [Zertex], and [TKRFX] - Vehicle performance upgrades testing.
 
 ### Programming
 * [rx] - Networking layer and vehicle management system.
@@ -41,8 +42,10 @@ The following persons have contributed to the project in a notable way.
 [Aero_]: https://github.com/AeroWidescreen
 [AlbinoBuffalo_80]: https://youtube.com/@AlbinoBuffalo_80
 [ARCHIE]: https://github.com/ArchieGoldmill
+[Artacer]: https://youtube.com/@Artacers
 [avail]: https://github.com/avail
 [BadassBaboon]: https://youtube.com/@badassbaboon
+[Balathruin]: https://balathruin.github.io/nfsd
 [berkayylmao]: https://github.com/berkayylmao
 [brokenphilip]: https://github.com/brokenphilip
 [Darknes]: https://x.com/WnFome
@@ -55,6 +58,7 @@ The following persons have contributed to the project in a notable way.
 [RaTT]: https://github.com/RaTT19
 [Ream]: https://github.com/emygs
 [Red Fire]: https://youtube.com/@redfire480
+[RedCarDriver]: https://nfsmods.xyz/user/5754
 [RektInator]: https://github.com/RektInator
 [rx]: https://github.com/rxyyy
 [Savo]: https://youtube.com/@DnBlast
