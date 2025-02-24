@@ -1,7 +1,7 @@
 # Assets
 This directory contains the graphical and textual assets used by the project.
 
-### Locations
+## Locations
 The graphical assets are used in the following locations.
 
 * Mist's Discord profile picture.
