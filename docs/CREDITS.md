@@ -5,10 +5,10 @@ The following persons have contributed to the project in a notable way.
 * [rx], [RaTT], [379Felipe], and [Balathruin] - Vehicle engine and exhaust audio.
 
 ## Gameplay
-* [rx] - Career, Challenge Series, Quick Race events, career progression, territories, areas, and file-related patches.
+* [rx] and [Balathruin] - Career, Challenge Series, Quick Race events, career progression, territories, areas, and file-related patches.
 * [brokenphilip] - AI, pursuit, and event-related patches.
 * [379Felipe], [MaxHwoy], and [RaTT] - Career, Challenge Series, Quick Race events, and file-related patches.
-* [rx] and [Xinerki] - Vehicle cameras.
+* [rx], [Xinerki], and [Balathruin] - Vehicle cameras.
 * [ARCHIE] - Vehicle and customization-related patches.
 
 ## Graphics
@@ -22,7 +22,7 @@ The following persons have contributed to the project in a notable way.
 * [rx], [RaTT], [Savo], [TDOG20], [Artacer], [Zertex], and [TKRFX] - Vehicle performance upgrades testing.
 
 ## Programming
-* [rx] and [RektInator] - Vehicle and race management systems, networking layer, and game patches.
+* [rx] and [RektInator] - Networking layer, vehicle management system, race management system, game patches, and research.
 
 ## Tooling
 * [rx] - [Attribulatorulator] and miscellaneous scripts.
@@ -32,7 +32,8 @@ The following persons have contributed to the project in a notable way.
 * [heyitsleo] - [VaultLib], [Attribulator], and [FEngLib].
 
 ## Research
-* [ThirteenAG] - Wide screen patches and research.
+* [ThirteenAG] - Wide-screen and controller research.
+* [Brawltendo] - Vehicle simulation research.
 * [berkayylmao] - Vehicle creation and management research.
 * [xan1242] - Scenery section management research.
 
@@ -46,6 +47,7 @@ The following persons have contributed to the project in a notable way.
 [BadassBaboon]: https://youtube.com/@badassbaboon
 [Balathruin]: https://balathruin.github.io/nfsd
 [berkayylmao]: https://github.com/berkayylmao
+[Brawltendo]: https://github.com/Brawltendo
 [brokenphilip]: https://github.com/brokenphilip
 [Darknes]: https://x.com/WnFome
 [heyitsleo]: https://github.com/LeoCodes21
