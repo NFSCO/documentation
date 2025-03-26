@@ -32,6 +32,7 @@ The server's administration reserves the right to amend any rules at any time wi
 :crown: <@&851893244015280129> Reserved for the founders of the project, <@172384625245683712> and <@109346134979264512>.
 :fleur_de_lis: <@&481177555223838730> Reserved for active project contributors.
 :dollar: <@&863878850517270579> Members who have supported the project with donations. Same permissions as <@&481177555223838730> members.
+:trophy: <@&1356274441633534104> Members who have participated and won an official tournament in the high class group.
 :sparkles: <@&659659162674003989> Members who have boosted the Discord server.
 
 ## Text Channels
@@ -55,10 +56,12 @@ The Discord server's primary language is English. For non-English discussion, cr
 
 :flag_ru: <#1123706580450418819>
 :flag_de: <#1324922119657881621>
-:flag_es: <#1213233111874281563>
+:flag_tr: <#1329480637287235615>
 :flag_rs: <#1321209024695373934>
 :flag_pl: <#1322300539626717295>
 :flag_pt: <#1323391283032756244>
+:flag_es: <#1213233111874281563>
+:flag_fr: <#1353757122097053818>
 
 ## Links
 Below are links to all accounts related to the project.
