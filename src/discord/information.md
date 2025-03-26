@@ -54,6 +54,7 @@ The server's administration reserves the right to amend any rules at any time wi
 The Discord server's primary language is English. For non-English discussion, create or join a regional thread in the <#1122540705169027155> channel.
 
 :flag_ru: <#1123706580450418819>
+:flag_tr: <#1329480637287235615>
 :flag_de: <#1324922119657881621>
 :flag_es: <#1213233111874281563>
 :flag_rs: <#1321209024695373934>
