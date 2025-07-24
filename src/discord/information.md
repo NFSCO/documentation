@@ -5,16 +5,16 @@ NFSCO is a C++ modification for the PC version of Electronic Arts' Need for Spee
 The project patches numerous problems with the original game, improves graphics and performance, extends modification capabilities, and much more.
 
 ## Change Log
-Click [here](<https://github.com/NFSCO/documentation/wiki/Change-Logs-%E2%80%90-2727>) to read the change log.
+Read the change log [here](<https://github.com/NFSCO/documentation/wiki/Change-Logs-%E2%80%90-2727>).
 
-## Installation
-Click [here](<https://github.com/NFSCO/documentation/wiki/NFSCO-%E2%80%90-Installation-Guide>) to read the installation guide.
+## Installation Guide
+Read the installation guide [here](<https://github.com/NFSCO/documentation/wiki/NFSCO-%E2%80%90-Installation-Guide>).
 
 ## Frequently Asked Questions
-Click [here](<https://github.com/NFSCO/documentation/wiki/NFSCO-%E2%80%90-Frequently-Asked-Questions>) to read the Frequently Asked Questions page.
+Read the Frequently Asked Questions page [here](<https://github.com/NFSCO/documentation/wiki/NFSCO-%E2%80%90-Frequently-Asked-Questions>).
 
 ## Tuning Guide
-Click [here](<https://github.com/NFSCO/documentation/wiki/NFSCO-%E2%80%90-Tuning-Guide>) to read the tuning guide.
+Read the tuning guide [here](<https://github.com/NFSCO/documentation/wiki/NFSCO-%E2%80%90-Tuning-Guide>).
 
 ## Discord Server Rules
 The following rules apply to this Discord server. Any violation of these rules may result in your removal from the server without prior notice.
@@ -32,7 +32,7 @@ The server's administration reserves the right to amend any rules at any time wi
 :crown: <@&851893244015280129> Reserved for the founders of the project, <@172384625245683712> and <@109346134979264512>.
 :fleur_de_lis: <@&481177555223838730> Reserved for active project contributors.
 :dollar: <@&863878850517270579> Members who have supported the project with donations. Same permissions as <@&481177555223838730> members.
-:trophy: <@&1356274441633534104> Members who have participated and won an official tournament in the high class group.
+:trophy: <@&1356274441633534104> Members who have participated and won an official tournament in the high-class group.
 :sparkles: <@&659659162674003989> Members who have boosted the Discord server.
 
 ## Text Channels

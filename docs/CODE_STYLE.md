@@ -45,22 +45,22 @@
 * Use a trailing return type declaration for functions that return types longer than 4 characters.
 ```cpp
 // incorrect.
-std::uint32_t size();
+std::size_t size();
 
 // correct.
-auto size() -> std::uint32_t;
+auto size() -> std::size_t;
 ```
 
-* Use `::` when using classes, functions, or variables from the global namespace.
+* Use `::` when accessing classes, functions, or variables inside the global namespace.
 ```cpp
 // incorrect.
-const auto handle = GetCurrentProcess();
+const auto process = GetCurrentProcess();
 
 // correct.
-const auto handle = ::GetCurrentProcess();
+const auto process = ::GetCurrentProcess();
 ```
 
-* Use `this` when using classes, functions, or variables from a class.
+* Use `this` when accessing classes, functions, or variables inside a class.
 ```cpp
 // incorrect.
 ++member_variable_;
