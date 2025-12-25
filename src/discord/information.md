@@ -5,16 +5,16 @@ NFSCO is a C++ modification for the PC version of Electronic Arts' Need for Spee
 The project patches numerous problems with the original game, improves graphics and performance, extends modification capabilities, and much more.
 
 ## Change Log
-Read the change log [here](<https://github.com/NFSCO/documentation/wiki/Change-Logs-%E2%80%90-2727>).
+Read the change log [here](<https://github.com/NFSCO/documentation/wiki/Change-Log>).
 
 ## Installation Guide
-Read the installation guide [here](<https://github.com/NFSCO/documentation/wiki/NFSCO-%E2%80%90-Installation-Guide>).
+Read the installation guide [here](<https://github.com/NFSCO/documentation/wiki/Installation-Guide>).
 
 ## Frequently Asked Questions
-Read the Frequently Asked Questions page [here](<https://github.com/NFSCO/documentation/wiki/NFSCO-%E2%80%90-Frequently-Asked-Questions>).
+Read the Frequently Asked Questions page [here](<https://github.com/NFSCO/documentation/wiki/Frequently-Asked-Questions>).
 
-## Tuning Guide
-Read the tuning guide [here](<https://github.com/NFSCO/documentation/wiki/NFSCO-%E2%80%90-Tuning-Guide>).
+## Cheat Codes
+View all cheat codes [here](<https://github.com/NFSCO/documentation/wiki/Cheat-Codes>).
 
 ## Discord Server Rules
 The following rules apply to this Discord server. Any violation of these rules may result in your removal from the server without prior notice.
@@ -71,7 +71,7 @@ If an account claiming to be related to the project is not displayed here, it is
 * Website - The project's [website](<https://nfsco.club>).
 * Discord - The project's [Discord server](<https://discord.nfsco.club>). You are here.
 * Telegram - The project's [Telegram group](<https://telegram.nfsco.club>). Primarily used as a back-up communication channel.
-* GitHub - The project's [GitHub organization](<https://github.com/orgs/NFSCO>). Used for [documentation](<https://github.com/NFSCO/documentation>) and [issue tracking](<https://github.com/orgs/NFSCO/projects/1/views/1>).
+* GitHub - The project's [GitHub organization](<https://github.com/orgs/NFSCO>). Used for [feature documentation](<https://github.com/NFSCO/documentation>).
 * Ko-fi - The project's [Ko-fi page](<https://ko-fi.com/nfsco>).
 * Patreon - The project's [Patreon page](<https://patreon.com/c/NFSCO>).
 * X - The project's [X profile](<https://x.com/race_bin_casino>).

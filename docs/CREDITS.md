@@ -123,7 +123,9 @@ The following individuals have contributed to the project in a notable way.
 * BadassBaboon
 
 ## Financial Affairs
+* rx
 * Crossy
+* Xinerki
 
 ## Joint Operations
 * Zertex
