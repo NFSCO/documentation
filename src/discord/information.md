@@ -47,7 +47,7 @@ The server's administration reserves the right to amend any rules at any time wi
 * :speech_balloon: <#481831073249230858> Talk about interesting and appropriate topics. Use your best judgement and read your messages before posting them.
 * :card_index: <#481831313662410752> Post memes.
 * :camera_with_flash: <#481832493499023372> Share your screenshots, images, videos, music, and other media.
-* :bulb: <#1318412842810081290> Give your feedback about the project. Structured and non-hostile messages only. Misusing this channel will result in you being permanently restricted.
+* :bulb: <#1318412842810081290> Give your feedback about the project. Structured and non-hostile messages only. Content requests are not feedback, and are only considered if fully funded by the community. Misusing this channel will result in you being permanently restricted.
 * :city_dusk: <#1122540705169027155> Create threads on topics you would like to discuss. Read the channel's post guidelines for more information.
 * :grey_question: <#1325879081526624326> Request support by creating a thread. Include any relevant and useful information when reporting an issue.
 
@@ -71,7 +71,7 @@ If an account claiming to be related to the project is not displayed here, it is
 * Website - The project's [website](<https://nfsco.club>).
 * Discord - The project's [Discord server](<https://discord.nfsco.club>). You are here.
 * Telegram - The project's [Telegram group](<https://telegram.nfsco.club>). Primarily used as a back-up communication channel.
-* GitHub - The project's [GitHub organization](<https://github.com/orgs/NFSCO>). Used for [feature documentation](<https://github.com/NFSCO/documentation>).
+* GitHub - The project's [GitHub organization](<https://github.com/orgs/NFSCO>).
 * Ko-fi - The project's [Ko-fi page](<https://ko-fi.com/nfsco>).
 * Patreon - The project's [Patreon page](<https://patreon.com/c/NFSCO>).
 * X - The project's [X profile](<https://x.com/race_bin_casino>).
@@ -79,8 +79,7 @@ If an account claiming to be related to the project is not displayed here, it is
 * NFSMods - <@172384625245683712>'s [NFSMods profile](<https://nfsmods.xyz/user/444>).
 
 ## Donations
-A huge thank you goes to all <@&863878850517270579> members for funding the future of the project.
-You are directly supporting the project and ensuring the continued creation of future updates.
+Thank you to all <@&863878850517270579> members for funding the future of the project. Without donations, there will not be any future updates.
 
 You can donate through the project's [Ko-fi page](<https://ko-fi.com/nfsco>), [NFSMods' donation page](<https://nfsmods.xyz/donate>), and the project's [Patreon page](<https://patreon.com/NFSCO>).
 Donating an amount equivalent to or above 5€ will grant you the <@&863878850517270579> role and access to the <#481833169906040862> channel.
