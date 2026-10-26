@@ -38,6 +38,12 @@ The following individuals have contributed to the project in a notable way.
 * Aero_
 * osdever
 * avail
+* Weedy
+
+## Graphics
+* rx
+* Balathruin
+* RedCarDriver
 
 ## Networking Components
 * rx
@@ -47,6 +53,12 @@ The following individuals have contributed to the project in a notable way.
 * rx
 * Balathruin
 * chinanamii
+
+## User Interface Textures
+* Ream
+* Madevi
+* Quertz
+* BadassBaboon
 
 ## Testing
 * rx
@@ -97,11 +109,6 @@ The following individuals have contributed to the project in a notable way.
 * AlbinoBuffalo_80
 * yash12396
 
-## Vehicle Materials
-* rx
-* Balathruin
-* RedCarDriver
-
 ## Vehicle Performance
 * rx
 * Balathruin
@@ -116,18 +123,13 @@ The following individuals have contributed to the project in a notable way.
 * Balathruin
 * AlbinoBuffalo_80
 
-## User Interface Textures
-* Ream
-* Madevi
-* Quertz
-* BadassBaboon
-
 ## Financial Affairs
 * rx
 * Crossy
 * Xinerki
 
 ## Joint Operations
+* rx
 * Zertex
 
 ## External Tooling
